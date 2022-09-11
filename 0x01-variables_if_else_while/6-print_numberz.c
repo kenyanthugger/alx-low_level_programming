@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints all single digits from 0
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
