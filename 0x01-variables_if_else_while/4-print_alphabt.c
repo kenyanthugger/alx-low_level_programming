@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints all letters in lowercase 
+ * main - prints all letters in lowercase
  * expect for letters 'e' and 'q'
  * Return: 0
  */
