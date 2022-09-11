@@ -5,11 +5,9 @@
  */
 int main(void)
 {
-	int n = 'A';
-	while (n <= 'Z'){
-		n = tolower(n);
-		putchar(n);
-		n ++;
-	}
+	char ch;
+	for(ch = 'a'; ch <= 'z'; ch++)
+		putchar(ch);
+	putchar('\n');
 	return (0);
 }
