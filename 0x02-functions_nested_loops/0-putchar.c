@@ -5,9 +5,10 @@
  */
 int main(void)
 {
-	char ch = '_putchar';
+	putchar('_putchar');
 
-	putchar(ch);
+
+	
 	putchar('\n');
 	return (0);
 }
