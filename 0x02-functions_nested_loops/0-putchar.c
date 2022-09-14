@@ -5,11 +5,11 @@
  */
 int main(void)
 {
-	putchar('_putchar');
+	_putchar('_putchar');
 
 
 	
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
 
