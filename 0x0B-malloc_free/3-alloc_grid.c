@@ -8,7 +8,7 @@
  * Return: grid with freed space
  */
 
-int **alloc_grid(int width, int height);
+int **alloc_grid(int width, int height)
 {
 	int **grid;
 	int i, j;
