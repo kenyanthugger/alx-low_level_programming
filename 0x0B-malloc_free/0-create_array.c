@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 #include <stddef.h>
 /**
  * create_array - array to print strings
