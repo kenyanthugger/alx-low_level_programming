@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <limits.h>
 /**
  * string_nconcat - concatenates two strings
  * @s1: first steing
